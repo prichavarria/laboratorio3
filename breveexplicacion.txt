@@ -1,0 +1,1 @@
+En el presente laboratorio se abordan los conceptos de: Arreglos, Recursividad y Punteros. Por lo anterior, el laboratorio cuenta con dos partes, en la primera, se realiza un programa con el tema de “Arreglos y recursividad”; en cuanto al segundo, se elabora un programa con “Arreglos y Punteros”. 
